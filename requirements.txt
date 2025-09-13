@@ -1,0 +1,13 @@
+streamlit
+SpeechRecognition
+PyAudio
+pyttsx3
+gTTS
+openai
+transformers
+torch
+pandas
+matplotlib
+wordcloud
+nltk
+reportlab
